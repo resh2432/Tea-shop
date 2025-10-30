@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>Tea Time - Your Local Tea Shop</title>
+
+  <style>
+
+    body {
+
+      font-family: 'Segoe UI', sans-serif;
+
+      margin: 0;
+
+      background-color: #fff8f0;
+
+    }
+
+    header {
+
+      background-color: #6b4c3b;
+
+      color: white;
+
+      text-align: center;
+
+      padding: 20px;
+
+    }
+
+    nav {
+
+      background-color: #a9745c;
+
+      padding: 10px;
+
+      text-align: center;
+
+    }
+
+    nav a {
+
+      color: white;
+
+      margin: 0 10px;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+    }
+
+    nav a:hover {
+
+      text-decoration: underline;
+
+    }
+
+    main {
+
+      padding: 20px;
+
+      max-width: 800px;
+
+      margin: auto;
+
+    }
+
+    .menu {
+
+      background-color: #fff;
+
+      border-radius: 8px;
+
+      padding: 15px;
+
+      box-shadow: 0 0 10px #ddd;
+
+      margin-bottom: 20px;
+
+    }
+
+    .menu h3 {
+
+      margin-top: 0;
+
+      color: #6b4c3b;
+
+    }
+
+    footer {
+
+      background-color: #6b4c3b;
+
+      color: white;
+
+      text-align: center;
+
+      padding: 10px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Tea Time</h1>
+
+    <p>Refreshing Teas, Friendly Vibes</p>
+
+  </header>
+
+  <nav>
+
+    <a href="#">Home</a>
+
+    <a href="#">Menu</a>
+
+    <a href="#">About</a>
+
+    <a href="#">Contact</a>
+
+  </nav>
+
+  <main>
+
+    <section class="menu">
+
+      <h3>Our Best Sellers</h3>
+
+      <ul>
+
+        <li>Masala Chai - ₹20</li>
+
+        <li>Green Tea - ₹30</li>
+
+        <li>Lemon Tea - ₹25</li>
+
+        <li>Ginger Tea - ₹20</li>
+
+        <li>Milk Tea - ₹15</li>
+
+      </ul>
+
+    </section>
+
+    <section>
+
+      <h3>About Us</h3>
+
+      <p>Welcome to Tea Time! We serve a variety of freshly brewed teas made with love. Drop by and enjoy a cup of warmth!</p>
+
+    </section>
+
+  </main>
+
+  <footer>
+
+    &copy; 2025 Tea Time | Made with ☕ in India
+
+  </footer>
+
+</body>
+
+</html>
